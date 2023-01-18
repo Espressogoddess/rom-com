@@ -1,16 +1,15 @@
 # RomCom  
 
+[RomCom](https://espressogoddess.github.io/rom-com/)
+
 ### Abstract:
 This application will allow users to randomly generate and manually create, as well as save, book covers by clicking on the respective buttons. Covers are internally stored as JavaScript objects in an array and are dynamically added to the saved covers section with appropriate clicks. Book covers can be deleted if the user wishes by double-clicking on the cover. 
 
 ### Installation Instructions:
 1. Open terminal and navigate to the directory where you would like this project to be stored.
-2. Run `git clone git@github.com:Espressogoddess/rom-com.git`
+1. Run `git clone git@github.com:Espressogoddess/rom-com.git`
 3. Run `cd rom-com` to move into the project directory
 4. Run `open index.html` to launch the application in the web browser
-
-#### Or
-Click this [deployable link](https://espressogoddess.github.io/rom-com/)
 
 ### Preview of App:
 ![image](Saved-Covers-View.png)
